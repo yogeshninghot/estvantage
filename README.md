@@ -6,6 +6,6 @@ This is a simple React application that fetches and displays a random user's ful
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/yogeshninghot/estvantage.git
-   cd eastvantage-assignment
+   
